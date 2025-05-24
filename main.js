@@ -1,4 +1,5 @@
 import { search } from "./search.js";
+import { fetchVerses } from "./fetch-json.js";
 
 export const MEMORY_VERSES = [
     {
